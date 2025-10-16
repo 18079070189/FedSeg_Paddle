@@ -1,0 +1,13 @@
+
+# datasets
+/data/
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.bin
+*.npy
+*.npz
+*.pt
+*.pdparams
+
