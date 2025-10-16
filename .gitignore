@@ -1,6 +1,6 @@
 
 # datasets
-/data/
+/data/voc/
 *.zip
 *.tar
 *.tar.gz
