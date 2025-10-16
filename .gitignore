@@ -12,8 +12,5 @@
 *.pdparams
 
 
-/data/
-
-
 # ignore only this subfolder
 data/voc/
