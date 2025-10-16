@@ -1,4 +1,4 @@
-# FedSeg
+# FedSeg_Paddle
 The Paddle version of "CVPR 2023 FedSeg: Class-Heterogeneous Federated Learning for Semantic Segmentation".
 
 
